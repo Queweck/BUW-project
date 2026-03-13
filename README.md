@@ -2,6 +2,8 @@
 
 ## Opis projektu
 
+WAŻNE: kod jest póki co w wersji surowej. Nie będzie zbyt czytelny
+
 W ramach projektu chciałem zbadać jak różne czynniki wpływają na liczbę studentów w Bibliotece Uniwersyteckiej w Warszawie.
 
 Najważniejsze czynniki podzieliłem na kategorie:
